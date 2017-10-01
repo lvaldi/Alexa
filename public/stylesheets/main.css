@@ -16,7 +16,13 @@ h1 {
 }
 h4 {
     font-weight:700;
-    font-size:5em;
+    font-size:3em;
+}
+
+.jumbotron {
+    background-color: rgb(220, 230, 247);
+    text-size:0.5em;
+    height:640px;
 }
 
 .hr1 {
@@ -68,4 +74,8 @@ h4 {
 
 .about2 {
     margin-top: 75px;
+}
+
+.image {
+    width:100%;
 }
