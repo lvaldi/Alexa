@@ -59,3 +59,13 @@ h4 {
 .second {
     padding-top:50px;
 }
+
+.about {
+    text-shadow: 0px 5px 7px rgba(184, 209, 249,0.8),
+    0px 8px 13px rgba(196, 218, 255,0.4),
+    0px 18px 23px rgba(196, 218, 255,0.2);
+}
+
+.about2 {
+    margin-top: 75px;
+}
